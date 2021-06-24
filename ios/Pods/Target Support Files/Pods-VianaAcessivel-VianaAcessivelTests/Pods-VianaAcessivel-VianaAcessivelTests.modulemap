@@ -1,0 +1,6 @@
+module Pods_VianaAcessivel_VianaAcessivelTests {
+  umbrella header "Pods-VianaAcessivel-VianaAcessivelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

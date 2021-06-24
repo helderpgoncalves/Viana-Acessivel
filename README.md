@@ -1,0 +1,2 @@
+# Viana+Acessivel
+ A Viana+Acessivel app intends to support all citizens with reduced mobility temporarily or permanently, informing them of the most climbed routes from their current location to a given desired destination. An application is the result of a joint work between a CMVC, IPVC and various institutions in the city, promoting inclusive and accessible mobility in the city of Viana do Castelo.
